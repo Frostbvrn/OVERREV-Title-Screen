@@ -1,9 +1,49 @@
 fileFormatVersion: 2
-guid: e8cc306d029d6044cba645066facb9d3
+guid: 683a83923774ba64db3975672be33245
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: cf8a15574aa295d4681117e91fde6686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenWall
+    second: {fileID: 2100000, guid: a730f4e54944fe844bd55308e718d393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: b0e54121316f51143892f0db40bf1dae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 834c44d528bd5064abe29ece68fcb380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneTrim
+    second: {fileID: 2100000, guid: c42fcac6772925540acf49ff4360e2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallOrange
+    second: {fileID: 2100000, guid: 67e88c8842ba19b4a966efda92d93790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 02d241dfc747d834c8468ccef735ffb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface1.001
+    second: {fileID: 2100000, guid: cf082378556ba944488b001651dbf7f1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
